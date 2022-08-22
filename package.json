@@ -42,7 +42,7 @@
   "devDependencies": {
     "@intlify/vite-plugin-vue-i18n": "^6.0.1",
     "@unocss/preset-uno": "^0.45.8",
-    "@unocss/preset-web-fonts": "^0.45.8",
+    "@unocss/preset-web-fonts": "^0.45.9",
     "@vitejs/plugin-vue": "^3.0.3",
     "eslint": "^8.22.0",
     "eslint-config-standard": "^17.0.0",
